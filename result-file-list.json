@@ -1,0 +1,5 @@
+{
+	"mig_up_time.csv" : [ "migrate_up_time" ],
+	"mig_down_time.csv" : [ "migrate_down_time" ],
+	"per_core_util.csv" : [ "core", "usr", "sys", "nice", "idle", "wait", "interval" ]
+}
